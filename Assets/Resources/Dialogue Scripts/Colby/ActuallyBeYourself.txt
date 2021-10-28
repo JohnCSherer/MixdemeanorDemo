@@ -1,0 +1,7 @@
+﻿say(right, "On second thought, I think your opinion matters more than mine.")
+pause()
+say(right, "You should decide for yourself if you want glasses or not.")
+pause()
+say(left, "lol u rite fam xDDDDDdddddd")
+pause()
+end()

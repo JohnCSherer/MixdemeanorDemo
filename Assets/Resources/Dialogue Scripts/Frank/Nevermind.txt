@@ -1,0 +1,3 @@
+say(left, "Heh, alrighty then")
+pause()
+end()

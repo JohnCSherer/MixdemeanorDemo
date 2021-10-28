@@ -1,0 +1,5 @@
+show(frank, left)
+show(fella, right)
+say(left, "Yeah?")
+answers("Nevermind", "Follow Me")
+link("Nevermind", "FollowMe")

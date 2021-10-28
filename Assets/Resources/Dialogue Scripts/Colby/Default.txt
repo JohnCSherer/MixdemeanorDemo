@@ -1,0 +1,45 @@
+show(fella, right)
+show(colby, left)
+say(right, "Hello heckin hi, how you doin colbs?")
+pause()
+say(left, "yo watch this")
+pause()
+
+effect(up and down)
+say(left, "here's some text that goes up and down")
+pause()
+
+effect(side to side)
+say(left, "here's some text that swings around in a circle")
+pause()
+
+effect(clear)
+effect(jitter, 3, 1)
+say(left, "here's some text that jitters a little bit")
+pause()
+effect(clear)
+effect(jitter, 0.1, 1.1)
+say(left, "here's some text that jitters a LOT")
+pause()
+
+effect(clear)
+effect(jitter, 1, 1)
+effect(round and round)
+effect(round and round)
+say(right, "wow colby you sure are talented")
+effect(clear)
+pause()
+
+say(left, "stfu")
+pause()
+
+react(colby, normal)
+say(left, "By the way, how do you think I would look if I wore glasses? I feel like I might need em, but I'm worried they'll look really goofy....")
+answers("Be yourself!", "Pretty Silly")
+link("BeYourself", "GlassesLookSilly")
+
+
+
+show(colby, left)
+
+end()

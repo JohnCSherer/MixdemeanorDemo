@@ -1,0 +1,7 @@
+﻿say(right, "Uh, nevermind.")
+pause()
+react(colby, confused)
+say(left, "....okay?")
+pause()
+react(colby, normal)
+end()

@@ -1,0 +1,2 @@
+﻿narrate("Well, if you're not a fan of coffee, they have some really good hot chocolate")
+expression(pleased)

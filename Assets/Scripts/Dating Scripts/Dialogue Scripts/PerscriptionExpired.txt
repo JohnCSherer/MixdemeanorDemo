@@ -1,0 +1,2 @@
+﻿narrate("Haven't done this path yet, sorry")
+directlink("ThirdScript")

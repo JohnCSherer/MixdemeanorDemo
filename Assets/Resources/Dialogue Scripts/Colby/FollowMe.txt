@@ -1,0 +1,7 @@
+say(right, "You got time to tag along for a bit?")
+pause()
+
+say(left, "Oh, uhhmm, sure!")
+pause()
+follow()
+end()

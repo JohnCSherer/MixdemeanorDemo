@@ -1,0 +1,10 @@
+show(fella, right)
+say(left, "Hi im invisible")
+pause()
+
+say(right, "Wow neat")
+pause()
+
+say(left, "ikr")
+pause()
+end()

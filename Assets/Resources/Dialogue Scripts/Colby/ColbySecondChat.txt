@@ -1,0 +1,5 @@
+﻿show(colby, left)
+show(fella, right)
+say(left, "What's up?")
+answers("Nothin'", "About the glasses", "Follow me")
+link("Nevermind", "GlassesAskAgain", "FollowMe")

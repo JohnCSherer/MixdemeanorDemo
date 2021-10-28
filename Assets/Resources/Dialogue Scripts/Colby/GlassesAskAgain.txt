@@ -1,0 +1,7 @@
+﻿say(right, "Hey, uh, about your glasses...")
+pause()
+say(left, "Yeah?")
+pause()
+say(right, "Well...")
+answers("Be yourself!", "Still would be silly")
+link("ActuallyBeYourself", "StillStilly")

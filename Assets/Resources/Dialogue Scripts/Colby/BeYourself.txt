@@ -1,0 +1,8 @@
+﻿say(right, "I think you should make that decision yourself. You know what's best for you.")
+pause()
+say(left, "Huh, I never thought about it that way. I'll think about that... thanks!")
+pause()
+say(right, "Heh, no problem bud")
+pause()
+next("ColbySecondChat")
+end()
